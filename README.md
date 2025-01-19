@@ -1,5 +1,4 @@
-# MERN-Social-Media-App
-### Demo: https://lnkd.in/g5M8XA6M
+
 
 ## Frontend Tech Stack;
 - React
